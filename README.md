@@ -1,7 +1,3 @@
-Below is a **clean, professional README** summarizing everything you have completed from the start of the project up to now.
-It is structured for GitHub and follows best practices.
-
-You can copy-paste it directly into your `README.md`.
 
 ---
 
