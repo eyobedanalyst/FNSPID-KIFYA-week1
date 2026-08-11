@@ -192,13 +192,8 @@ Use notebooks under `notebooks/` for step-by-step exploration.
 ## 9. Contact / Contributions
 
 For questions, suggestions, or contributions, please open an issue or create a pull request on GitHub.
+or contact me with this email address `eyobedsebrala900@gmail.com`
 
 ---
 
-If you want, I can also generate:
 
-* A **requirements.txt**
-* A **more detailed README with images and charts**
-* A **version specifically formatted for school or corporate submission**
-
-Just tell me.
